@@ -1,4 +1,4 @@
-# Conflict Adaptation project pipeline workflow
+# Conflict Adaptation - Project Pipeline Workflow
 
 ## MATLAB Preprocessing pipeline 
 <ins>Necessary Toolbox: EEGLAB, ERPLAB</ins>
